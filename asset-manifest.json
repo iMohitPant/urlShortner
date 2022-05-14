@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/iMohitPant/urlShortner.git/static/css/main.ed98eb03.css",
-    "main.js": "/iMohitPant/urlShortner.git/static/js/main.f90274a7.js",
-    "index.html": "/iMohitPant/urlShortner.git/index.html",
-    "main.ed98eb03.css.map": "/iMohitPant/urlShortner.git/static/css/main.ed98eb03.css.map",
-    "main.f90274a7.js.map": "/iMohitPant/urlShortner.git/static/js/main.f90274a7.js.map"
+    "main.css": "/static/css/main.ed98eb03.css",
+    "main.js": "/static/js/main.f90274a7.js",
+    "index.html": "/index.html",
+    "main.ed98eb03.css.map": "/static/css/main.ed98eb03.css.map",
+    "main.f90274a7.js.map": "/static/js/main.f90274a7.js.map"
   },
   "entrypoints": [
     "static/css/main.ed98eb03.css",
